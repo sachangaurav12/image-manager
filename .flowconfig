@@ -1,0 +1,6 @@
+[ignore]
+.*/build/.*
+.*/node_modules/babel-plugin-flow-runtime/.*
+
+[include]
+lib/
